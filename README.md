@@ -1,3 +1,3 @@
 # myFirstRepo
 
-This is my first Github repo aimed at practicing! 
+This is my first Github repo for practice! 
